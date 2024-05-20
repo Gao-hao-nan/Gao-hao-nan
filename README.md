@@ -13,7 +13,7 @@
 13
 141. Collecting and sharing awesome resources about technical communication (tech comm):
 15
-16    [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=lilin90&repo=awesome-technical-communication&theme=radical)](https://github.com/lilin90/awesome-technical-communication)
+16    [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=lilin90&repo=awesome-technical-communication&theme=radical)](https://github.com/Gao-hao-nan/MVVM)
 17
 18    > **Note:** Currently, this project includes tech comm resources in both English and Chinese.
 19
