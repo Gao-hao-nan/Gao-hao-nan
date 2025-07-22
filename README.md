@@ -1,6 +1,6 @@
  ### Hi there 👋
  
- 🤓 I'm Lilian Lee 高浩楠, Android Developer | Golang Learner | Detail-oriented, fast learner,
+ 🤓 I'm  Haonan Gao , Android Developer | Golang Learner | Detail-oriented, fast learner,
  
  and passionate about clean architecture and elegant code。
  
