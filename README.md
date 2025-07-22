@@ -1,6 +1,6 @@
  ### Hi there 👋
  
- 🤓 I'm Lilian Lee 高浩楠, a Content Strategist | Senior Technical Writer.
+ 🤓 I'm Lilian Lee 高浩楠, Android Developer | Golang Learner | Detail-oriented, fast learner, and passionate about clean architecture and elegant code。
  
  I love photography 📷, traveling ✈️, cooking and enjoying delicious food 🥘
  
